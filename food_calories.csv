@@ -1,0 +1,167 @@
+food,calories_per_100g,serving_size_g,calories_per_serving,protein_g,carbs_g,fat_g
+pizza,266,107,284.6,11.0,33,10.0
+apple,52,182,94.6,0.5,25,0.3
+banana,89,118,105.0,1.3,27,0.4
+orange,47,131,61.6,1.2,15,0.2
+burger,295,200,590.0,17.0,24,14.0
+hot dog,290,98,284.2,10.0,18,13.0
+sandwich,250,200,500.0,12.0,48,10.0
+salad,20,85,17.0,1.8,2,0.2
+cake,350,100,350.0,4.0,55,15.0
+donut,452,60,271.2,4.0,51,25.0
+rice,130,186,241.8,4.0,53,0.4
+broccoli,55,91,50.1,3.7,10,0.6
+carrot,41,128,52.5,0.9,12,0.2
+corn,86,154,132.4,3.4,30,1.8
+chicken,239,140,334.6,28.0,0,14.0
+steak,271,221,599.0,26.0,0,18.0
+soup,45,244,109.8,2.0,10,1.0
+juice,45,240,108.0,0.7,26,0.2
+coffee,2,240,4.8,0.3,0,0.0
+wine,85,148,125.8,0.1,4,0.0
+bread_or_Roti_naan,297,100,297.0,9.0,50,4.0
+curry_dish,150,200,300.0,10.0,15,20.0
+rice_dish,130,200,260.0,3.0,28,1.0
+dry_vegetable,80,150,120.0,2.0,10,5.0
+snack_item,400,50,200.0,5.0,50,20.0
+sweet_item,350,50,175.0,3.0,60,10.0
+accompaniment,50,50,25.0,1.0,5,0.0
+Dal_or_sambar,100,200,200.0,8.0,15,3.0
+drink,40,250,100.0,0.0,10,0.0
+eggs,155,100,155.0,13.0,1,11.0
+fish_dish,200,150,300.0,20.0,5,10.0
+fruits,50,150,75.0,1.0,15,0.0
+pasta,130,200,260.0,5.0,25,1.0
+south_indian_breakfast,150,200,300.0,5.0,30,5.0
+AW cola,45,330,150.0,0.0,39,0.0
+Beijing Beef,250,150,375.0,15.0,25,18.0
+Chow Mein,150,200,300.0,5.0,40,10.0
+Fried Rice,160,200,320.0,6.0,42,12.0
+Hashbrown,250,100,250.0,2.0,30,15.0
+Honey Walnut Shrimp,300,150,450.0,12.0,30,25.0
+Kung Pao Chicken,200,150,300.0,15.0,10,18.0
+String Bean Chicken Breast,110,150,165.0,12.0,10,8.0
+Super Greens,50,100,50.0,3.0,6,2.0
+The Original Orange Chicken,250,150,375.0,14.0,35,18.0
+White Steamed Rice,130,200,260.0,3.0,28,0.0
+black pepper rice bowl,180,250,450.0,15.0,45,15.0
+carrot_eggs,120,150,180.0,8.0,10,10.0
+cheese burger,300,200,600.0,18.0,25,16.0
+chicken waffle,350,200,700.0,20.0,50,30.0
+chicken_nuggets,296,100,296.0,15.0,15,20.0
+chinese_cabbage,16,100,16.0,1.0,3,0.0
+chinese_sausage,600,50,300.0,10.0,5,25.0
+crispy corn,150,100,150.0,3.0,20,5.0
+curry,150,200,300.0,10.0,15,20.0
+french fries,312,100,312.0,3.0,41,15.0
+fried chicken,250,150,375.0,15.0,10,20.0
+fried_chicken,250,150,375.0,15.0,10,20.0
+fried_dumplings,200,150,300.0,8.0,25,15.0
+fried_eggs,196,100,196.0,13.0,1,15.0
+mango chicken pocket,220,150,330.0,10.0,30,15.0
+mozza burger,320,200,640.0,20.0,25,18.0
+mung_bean_sprouts,30,100,30.0,3.0,6,0.0
+nugget,296,100,296.0,15.0,15,20.0
+perkedel,180,100,180.0,4.0,20,10.0
+sprite,40,330,132.0,0.0,33,0.0
+tostitos cheese dip sauce,250,50,125.0,3.0,5,10.0
+triangle_hash_brown,250,100,250.0,2.0,30,15.0
+water_spinach,20,100,20.0,2.0,3,0.0
+poha,130,200,260,4,45,3
+idli,120,150,180,5,35,1
+dosa,180,200,360,6,50,8
+vada,250,100,250,6,30,12
+samosa,308,100,308,5,30,18
+pav bhaji,150,250,375,8,45,12
+rajma,140,200,280,9,40,5
+chole,160,200,320,10,45,6
+paneer butter masala,300,200,600,18,10,45
+palak paneer,220,200,440,15,10,30
+veg pulao,180,200,360,6,55,8
+biryani,220,250,550,15,60,18
+upma,150,200,300,6,45,10
+thepla,180,100,180,5,30,6
+khichdi,120,250,300,8,50,5
+dhokla,160,100,160,6,25,5
+jalebi,380,50,190,2,45,10
+gulab jamun,300,100,300,5,40,15
+lassi,120,250,300,8,30,10
+buttermilk,40,250,100,3,8,2
+masala dosa,200,220,440,7,55,10
+rava dosa,180,200,360,6,50,9
+plain dosa,170,200,340,5,48,8
+medu vada,260,100,260,7,28,14
+uttapam,190,200,380,6,52,9
+pongal,180,200,360,8,45,12
+curd rice,130,250,325,6,50,5
+lemon rice,170,200,340,5,52,8
+tamarind rice,180,200,360,6,55,9
+vegetable upma,150,200,300,6,45,10
+paneer tikka,260,150,390,18,8,22
+chicken tikka,220,150,330,25,5,18
+tandoori chicken,240,200,480,30,5,20
+butter chicken,300,200,600,20,10,40
+chicken curry,220,200,440,22,8,28
+mutton curry,280,200,560,25,5,35
+fish curry,200,200,400,22,6,20
+egg curry,190,200,380,14,5,22
+boiled eggs,155,100,155,13,1,11
+omelette,200,120,240,14,2,18
+paneer bhurji,280,150,420,18,6,30
+egg bhurji,190,150,285,15,4,20
+aloo paratha,250,150,375,7,45,12
+gobi paratha,220,150,330,6,40,10
+paneer paratha,270,150,405,10,38,18
+plain paratha,300,100,300,6,40,18
+puri,300,100,300,5,35,20
+bhatura,350,120,420,8,45,22
+kachori,320,100,320,7,40,18
+dabeli,280,150,420,8,50,15
+vada pav,290,150,435,9,45,18
+misal pav,220,250,550,12,60,20
+pav bhaji butter,200,300,600,10,55,25
+ragda pattice,240,200,480,10,55,18
+sev puri,200,150,300,6,40,12
+bhel puri,150,150,225,5,35,8
+pani puri,180,150,270,6,45,10
+dahi puri,220,150,330,7,40,15
+khaman,160,100,160,6,25,5
+handvo,180,150,270,8,30,10
+undhiyu,200,200,400,10,25,22
+dal dhokli,180,250,450,12,50,15
+baingan bharta,120,200,240,4,20,10
+bhindi masala,150,200,300,5,25,18
+aloo jeera,180,200,360,4,35,20
+mix veg sabzi,140,200,280,6,30,12
+cabbage sabzi,100,200,200,4,20,8
+carrot peas sabzi,120,200,240,5,25,10
+palak sabzi,110,200,220,5,15,12
+dal khichdi ghee,160,250,400,9,50,12
+veg fried noodles,200,200,400,7,55,12
+hakka noodles,220,200,440,8,60,14
+chilli paneer,280,200,560,18,20,35
+chilli chicken,260,200,520,22,15,32
+manchurian gravy,240,200,480,10,40,20
+gobi manchurian,230,200,460,8,45,18
+spring rolls,250,150,375,6,35,18
+momos steamed,150,150,225,8,30,5
+momos fried,280,150,420,10,35,20
+shawarma,260,200,520,18,40,22
+falafel wrap,250,200,500,12,50,18
+veg sandwich,200,200,400,8,45,12
+grilled sandwich,250,200,500,12,40,20
+cheese sandwich,300,200,600,15,35,30
+maggi noodles,220,150,330,6,40,14
+pasta white sauce,260,200,520,12,50,20
+pasta red sauce,200,200,400,10,60,12
+mac and cheese,300,200,600,15,55,28
+pizza veg,270,150,405,12,50,15
+pizza cheese,300,150,450,15,45,20
+burger veg,280,200,560,10,50,25
+burger chicken,300,200,600,18,45,28
+french fries,312,100,312,3,41,15
+peri peri fries,330,100,330,4,45,18
+cold coffee,120,250,300,6,35,10
+milkshake,180,300,540,8,60,20
+chai,60,150,90,3,10,3
+green tea,2,200,4,0,0,0

@@ -1,0 +1,17 @@
+graph TD
+    A[USER INPUT <br/> Camera captures food image & inputs dietary goals] --> B[IMAGE PROCESSING <br/> Local edge scaling and formatting]
+    B --> C[ON-DEVICE INFERENCE <br/> YOLOv8 detects bounding boxes and food classes]
+    C --> D[NUTRITIONAL ANALYSIS <br/> Query local DB for total calories and macronutrients]
+    D --> E[RESULTS DISPLAY <br/> Show real-time meal stats and suggest healthy swaps]
+    
+    E --> F[FEDERATED RETRAINING <br/> Device trains locally on the newly captured image]
+    F --> G[ENCRYPTION <br/> Local model weight updates / gradients are encrypted]
+    G --> H[SECURE TRANSMISSION <br/> Encrypted gradients sent to backend API]
+    H --> I[GLOBAL AGGREGATION <br/> Server mathematically combines gradients to update Global Model]
+    I --> J[MODEL DEPLOYMENT <br/> Updated global weights pushed back to update local user device]
+
+    classDef default fill:#ffffff,stroke:#000000,stroke-width:2px;
+    classDef federated fill:#f9f9f9,stroke:#000000,stroke-width:2px,stroke-dasharray: 5 5;
+    
+    class A,B,C,D,E default;
+    class F,G,H,I,J federated;
